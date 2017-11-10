@@ -1,0 +1,19 @@
+{
+  "name": "githook-on-change",
+  "version": "1.0.0",
+  "description": "Execute a task when a specific file is modified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjlacerda/githook-on-change.git"
+  },
+  "author": "Guilherme Lacerda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gjlacerda/githook-on-change/issues"
+  },
+  "homepage": "https://github.com/gjlacerda/githook-on-change#readme"
+}
