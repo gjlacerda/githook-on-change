@@ -1,7 +1,7 @@
 #!/bin/bash
-source githooks/util/util-files.sh
+source githooks/util/files.sh
 
-modified=$(isModified "change.sh")
+modified=$(isModified "name-of-file.sh")
 if $modified; then
     echo "Do something..."
 fi
