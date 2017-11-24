@@ -5,3 +5,5 @@ modified=$(isModified "name-of-file.sh")
 if $modified; then
     echo "Do something..."
 fi
+echo "teste"
+exit 1
